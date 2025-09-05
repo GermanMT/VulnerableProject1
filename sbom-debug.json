@@ -6,13 +6,13 @@
   "components": [
     {
       "type": "library",
-      "name": "jackson-databind",
+      "name": "com.fasterxml.jackson.core:jackson-databind",
       "version": "2.9.8",
       "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8"
     },
     {
       "type": "library", 
-      "name": "h2",
+      "name": "com.h2database:h2",
       "version": "1.4.199",
       "purl": "pkg:maven/com.h2database/h2@1.4.199"
     }
